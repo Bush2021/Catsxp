@@ -1,12 +1,14 @@
-# ![Logo](https://github.com/Bush2021/chromium/blob/main/chrome/app/theme/chromium/Catsxp-logo.png) 下载地址 2022-04-09
+# 下载地址 2022-05-01
 
-- https://pan.huang1111.cn/s/PaP3Sm
+- https://pan.huang1111.cn/s/G66gCW
 
-- https://gh.gh2233.ml/https://github.com/Bush2021/Catsxp/releases/download/2022-04-09/Catsxp_v100.2.4.4_2022-04-09.7z
+- https://bush.lanzouy.com/iEyy7042x69a
 
-- https://pd.zwc365.com/seturl/https://github.com/Bush2021/Catsxp/releases/download/2022-04-09/Catsxp_v100.2.4.4_2022-04-09.7z
+- https://hub.xn--gzu630h.xn--kpry57d/Bush2021/Catsxp/releases/download/2022-05-01/Catsxp_v100.2.5.1_2022-05-01.7z
 
-- https://github.do/https://github.com/Bush2021/Catsxp/releases/download/2022-04-09/Catsxp_v100.2.4.4_2022-04-09.7z
+- https://gh.gh2233.ml/https://github.com/Bush2021/Catsxp/releases/download/2022-05-01/Catsxp_v100.2.5.1_2022-05-01.7z
+
+- https://download.xn--p8jhe.tw/Bush2021/Catsxp/releases/download/2022-05-01/Catsxp_v100.2.5.1_2022-05-01.7z
 
 
 # 历史版本
